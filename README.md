@@ -1,2 +1,2 @@
-# memory-hunting.ornalogy.github.io
+# memory-hunting.ornalogy.ru
 Memory Hunting page
